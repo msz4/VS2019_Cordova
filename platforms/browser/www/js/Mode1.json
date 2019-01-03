@@ -1,0 +1,9 @@
+{
+    "Q1": {"Question": "What do I need to be able to vote in the upcoming elections?", "options":[[" be a Nigerian citizen",""],["be 18 years old or older",""],["be a registerd voter",""],["hold a valid voters card",""]], "Info": "Only those that meet all 4 criteria are eligible to vote!\nIf you have registered to vote, you can verfiy your regsitration online at 'voters.inecnigeria.org'.", "CA":["0","1","2","3"]},
+    
+    "Q2": {"Question": "What do I need to verify my registration online?", "options":[["my name",""],["my phone number",""],["my date of birth",""],["my Voter Identification Number",""]], "Info": "You only need tour name and either your date of birth or your Voter Identification Number to verfiy your voter's registartion. It's completely free and does not require any other personal information.", "CA": ["0","2","3"]},
+    
+    "Q3": {"Question": "Where should I go to vote on election day?", "options":[["any polling unit I want",""],["the polling unit where I am registered",""],["any polling station I want",""],["the polling station where I am registered",""]], "Info": "Make sure yo go to the polling unit where your name is on the voters register, then make your way to your assigned polling station", "CA": ["1","3"]},
+    
+    "Final":["Don’t sell your VOTE\nDon’t sell your PVC\nDon’t sell your CONSCIENCE\nDon’t sell your FUTURE"]
+}
