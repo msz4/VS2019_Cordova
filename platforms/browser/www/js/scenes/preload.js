@@ -9,9 +9,14 @@ preload: function  ()
         this.load.image('congrats', 'assets/congratss.png');
         this.load.image('congrats1', 'assets/congrats2.png');
         this.load.image('home', 'assets/home.png');
+        this.load.image('home1', 'assets/home1.png');
+        this.load.image('continue1', 'assets/continue1.png');
         this.load.image('notice', 'assets/notice.png');
+        this.load.image('notice1', 'assets/notice1.png');
         this.load.image('continue', 'assets/continue.png');
-        this.load.image('questionBox', 'assets/questionBox.png');
+        this.load.image('optionBoxD', 'assets/optionBoxD.png');
+        this.load.image('optionBoxR', 'assets/optionBoxR.png');
+        this.load.image('optionBoxW', 'assets/optionBoxW.png');
         this.load.image('wall', 'assets/wall.png');
         this.load.image('warning', 'assets/warning.png');
         this.load.spritesheet('optionBox', 'assets/optionBox.png', { frameWidth: 1632, frameHeight: 362});
