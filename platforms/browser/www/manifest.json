@@ -1,11 +1,12 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "VS2019",
-  "short_name": "VS2019",
-  "version": "com.iidea.VS2019",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
-  "author": "Apache Cordova Team",
+  "name": "Let's Vote 2019",
+  "short_name": "Let's Vote 2019",
+  "version": "com.iidea.LV2019",
+  "description": "A voter education app for the 2019 Nigerian general elections.",
+  "author": "Misbahu S.Z. || IIDEA",
   "icons": [],
+  "orientation": "portrait",
   "start_url": "index.html"
 }
